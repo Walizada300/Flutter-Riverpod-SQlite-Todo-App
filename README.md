@@ -1,17 +1,38 @@
-# flutter_riverpod_todo_app
+# 📝 Flutter Riverpod SQLite Todo App
 
-A new Flutter project.
+A simple yet powerful **Todo app** built with **Flutter**, using **Riverpod** for state management and **SQLite** for local data storage.
 
-## Getting Started
+<img width="2279" height="1555" alt="thmee" src="https://github.com/user-attachments/assets/1338ae3e-b99d-42df-bb5a-c1a0b98becfc" />
 
-This project is a starting point for a Flutter application.
+---
 
-A few resources to get you started if this is your first Flutter project:
+## 🚀 Features
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+- ✅ Add new tasks with title and creation date
+- 📌 View tasks in two sections:  
+  - ⏳ *Tasks To Do*
+  - ✅ *Completed Tasks*
+- 🖍️ Mark tasks as done or undone
+- 🗑️ Delete tasks
+- 🗃 Local persistent storage with SQLite
+- 🎯 Clean architecture with separation of concerns
+- 🌈 Beautiful and responsive UI
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-# Flutter-Riverpod-SQlite-Todo-App
+---
+
+## 🧪 Getting Started
+
+### 🔧 Prerequisites
+- Flutter SDK (>= 3.10.0)
+- Dart SDK
+- Android Studio or VSCode
+- Emulator or physical device
+
+### ▶️ Run the App
+
+```bash
+git clone https://github.com/Walizada300/Flutter-Riverpod-SQlite-Todo-App.git
+cd Flutter-Riverpod-SQlite-Todo-App
+flutter pub get
+flutter run
+```
